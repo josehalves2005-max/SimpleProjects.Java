@@ -1,0 +1,16 @@
+# Pasta de compilação (arquivos .class)
+build/
+bin/
+dist/
+
+# Configurações específicas do NetBeans
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# Outros arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs de erro
+*.log
